@@ -33,7 +33,7 @@ const Dropdown = () => {
       >
         <img className='w-8 m-2 rounded-full' src={profile} alt=""  />
         <div className='flex flex-col text-left'>
-         <p className='text-sm'>Kanhaiya Verma</p>
+         <p className='text-sm'>Basant Mandal</p>
          <p className='text-xs text-slate-400 font-bold'>Software Engineer</p>
         </div>
         <AiOutlineDown className='m-2 my-3'/>
